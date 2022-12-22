@@ -16,7 +16,7 @@
     "body-parser": "^1.18.3",
     "cors": "2.8",
     "express": "^4.16.4",
-    "jsonwebtoken": "7.4",
+    "jsonwebtoken": "9.0",
     "mongoose": "5.7",
     "morgan": "^1.9.1",
     "passport": "0.3",
